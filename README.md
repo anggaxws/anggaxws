@@ -13,6 +13,22 @@
   </a>
 </p>
 
+## Tech stack
+
+<p>
+  <img alt="HTML, CSS, JavaScript, TypeScript, Python, Node.js, React, Next.js, Svelte, Astro, Tailwind CSS, Express, MongoDB, PostgreSQL, Prisma, Docker, and Supabase" src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,react,nextjs,svelte,astro,tailwind,express,mongodb,postgres,prisma,docker,supabase&perline=9">
+</p>
+
+<details>
+  <summary>More tools used in my projects</summary>
+
+  Python/data: Streamlit, pandas, scikit-learn, Scrapy, OpenAI, Snowflake
+
+  Other: Drizzle ORM, Socket.IO
+
+  Examples: [SvelteKit portfolio](https://github.com/anggaxws/personal-website-v2), [Astro site](https://github.com/anggaxws/Munafa-Company), [Next.js projects](https://github.com/anggaxws/ai-chat), [Express API](https://github.com/anggaxws/back-end-acara), [Python analytics](https://github.com/anggaxws/substitute-product-finder-and-product-analytics), [AI and data app](https://github.com/anggaxws/stock-trading-python-app)
+</details>
+
 ## GitHub stats
 
 <table>
