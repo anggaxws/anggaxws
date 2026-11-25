@@ -16,7 +16,7 @@
 ## Tech stack
 
 <p>
-  <img alt="HTML, CSS, JavaScript, TypeScript, Python, Node.js, React, Next.js, Svelte, Astro, Tailwind CSS, Express, MongoDB, PostgreSQL, Prisma, Docker, and Supabase" src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,react,nextjs,svelte,astro,tailwind,express,mongodb,postgres,prisma,docker,supabase&perline=9">
+  <img alt="HTML, CSS, JavaScript, TypeScript, Python, Node.js, React, Next.js, Svelte, Astro, Tailwind CSS, Express, MongoDB, PostgreSQL, Prisma, Docker, Supabase, and GraphQL" src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,react,nextjs,svelte,astro,tailwind,express,mongodb,postgres,prisma,docker,supabase,graphql&perline=9">
 </p>
 
 <details>
