@@ -25,8 +25,6 @@
   Python/data: Streamlit, pandas, scikit-learn, Scrapy, OpenAI, Snowflake
 
   Other: Drizzle ORM, Socket.IO
-
-  Examples: [SvelteKit portfolio](https://github.com/anggaxws/personal-website-v2), [Astro site](https://github.com/anggaxws/Munafa-Company), [Next.js projects](https://github.com/anggaxws/ai-chat), [Express API](https://github.com/anggaxws/back-end-acara), [Python analytics](https://github.com/anggaxws/substitute-product-finder-and-product-analytics), [AI and data app](https://github.com/anggaxws/stock-trading-python-app)
 </details>
 
 ## GitHub stats
